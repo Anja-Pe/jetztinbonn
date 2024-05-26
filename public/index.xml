@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#JetztInBonn</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on #JetztInBonn</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>Hier vielleicht ein kurzes Impressum?&#xA;Das Bild auf der Startseite stammt von Didgeman (Pixabay) und ist unter der Pixabay-Lizenz verwendbar.&#xA;Verantwortlich für diese Seite ist Anja-Pe. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.</description>
+    </item>
+  </channel>
+</rss>
