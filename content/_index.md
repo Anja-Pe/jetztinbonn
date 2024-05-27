@@ -7,12 +7,12 @@ cascade:
 
 ### Wer sind wir?
 
-Wir sind ein Nachbarschaftsnetzwerk aus Bonn, das sich für Demokratie, Menschlichkeit, Füreinander und Weltoffentheit einsetzt. 
+Wir sind ein Nachbarschaftsnetzwerk aus Bonn, das sich für Demokratie, Menschlichkeit, Füreinander und Weltoffenheit einsetzt. 
 
 ### Wo findet Ihr uns?
 
 Im [Klubraum](https://web.klubraum.com/j/HhE8ZnuVZ8pvLB).
 
-Bei nebenan.de in der Gruppe #jetztinbonn
+Bei [nebenan.de](https://nebenan.de/city/bonn) in der Gruppe #jetztinbonn
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'About'
+title: 'Über uns'
 date: 2024-05-26
 draft: false
 ---
